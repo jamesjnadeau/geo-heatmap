@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jamesjnadeau/geo-heatmap/master?urlpath=lab/)
+
 # Geo Heatmap
 
 <p align="center"><img src="https://user-images.githubusercontent.com/45404400/63515170-7a9cd280-c4ea-11e9-8875-e693622ac26e.png" alt="screenshot" width="400"></p>
